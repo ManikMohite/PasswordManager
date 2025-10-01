@@ -1,4 +1,4 @@
-Perfect 👌 since you’ve built a **full-stack MERN project** with **Vite + React, Express, Node.js, MongoDB, TailwindCSS** and it’s responsive, I’ll draft a professional **README.md** for you. You can later customize it with your project name, screenshots, and features.
+<img width="1680" height="1050" alt="image" src="https://github.com/user-attachments/assets/c3699f21-62ec-4061-8c7f-8153644acb58" />Perfect 👌 since you’ve built a **full-stack MERN project** with **Vite + React, Express, Node.js, MongoDB, TailwindCSS** and it’s responsive, I’ll draft a professional **README.md** for you. You can later customize it with your project name, screenshots, and features.
 
 Here’s a clean README:
 
@@ -114,6 +114,8 @@ http://localhost:5000
 * MongoDB with **MongoDB Atlas**
 
 ---
+screenshots
+
 
 ## 🤝 Contributing
 
